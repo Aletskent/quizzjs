@@ -1,0 +1,13 @@
+[{"question":"1 What color is an apple","answers":["Blues","Red","Purple"],"correct":1},
+    {"question":"2 What color the sky","answers":["Blue","Yellow","Purple"],"correct":0},
+        {"question":"3What color is grass","answers":["Transparent","Red","Green"],"correct":2},
+        {"question":" 4Is grass Gruen","answers":["True","False"],"correct":0},
+        {"question":"5What color is an apple","answers":["Blues","Red","Purple"],"correct":1},
+        {"question":"6What color the sky","answers":["Blue","Yellow","Purple"],"correct":0},
+        {"question":"7What color is grass","answers":["Transparent","Red","Green"],"correct":2},
+        {"question":"8Is grass Gruen","answers":["True","False"],"correct":0},
+       {"question":"9 What color is an apple","answers":["Blues","Red","Purple"],"correct":1},
+    {"question":"10 What color the sky","answers":["Blue","Yellow","Purple"],"correct":0}]
+
+
+
