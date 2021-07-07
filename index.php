@@ -1,3 +1,22 @@
+<?php
+
+  if (!empty($_POST)) {
+    if (isset($_POST['result'])) {
+      var_dump($_POST['result']);
+      $resultData = json_decode($_POST['result']);
+      
+      foreach($resultData as $item) {
+        echo "{$item->correct} | {$item->selected} \n";
+        var_dump($item->isCorrect);
+      }
+
+    }
+
+    die();
+  }
+
+?>
+
 <!DOCTYPE html>
 
 
